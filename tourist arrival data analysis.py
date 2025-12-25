@@ -15,7 +15,6 @@ print("\nColumns:\n", df.columns)
 # -------------------------------
 print("\nDataset Info:")
 print(df.info())
-
 print("\nStatistical Summary:")
 print(df.describe())
 
